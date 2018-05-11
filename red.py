@@ -24,7 +24,7 @@ from cogs.utils.chat_formatting import inline
 from collections import Counter
 from io import TextIOWrapper
 
-#
+# This is a small change to verify version
 # Red, a Discord bot by Twentysix, based on discord.py and its command
 #                             extension.
 #
